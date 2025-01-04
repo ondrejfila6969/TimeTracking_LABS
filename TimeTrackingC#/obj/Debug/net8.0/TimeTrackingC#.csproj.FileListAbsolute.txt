@@ -1,0 +1,14 @@
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\bin\Debug\net8.0\TimeTrackingC#.exe
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\bin\Debug\net8.0\TimeTrackingC#.deps.json
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\bin\Debug\net8.0\TimeTrackingC#.runtimeconfig.json
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\bin\Debug\net8.0\TimeTrackingC#.dll
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\bin\Debug\net8.0\TimeTrackingC#.pdb
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.AssemblyInfoInputs.cache
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.AssemblyInfo.cs
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.dll
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\refint\TimeTrackingC#.dll
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.pdb
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\TimeTrackingC#.genruntimeconfig.cache
+C:\Users\Ondra\source\repos\TimeTrackingC#\TimeTrackingC#\obj\Debug\net8.0\ref\TimeTrackingC#.dll
