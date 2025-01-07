@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeTrackingLABS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27f9727710e8ef4f600362f29e67f184b8374aa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeTrackingLABS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeTrackingLABS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

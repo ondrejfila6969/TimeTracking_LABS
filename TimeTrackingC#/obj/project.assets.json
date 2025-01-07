@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ondra\\source\\repos\\TimeTrackingC#\\TimeTrackingC#\\TimeTrackingLABS.csproj",
+      "projectUniqueName": "C:\\Users\\Ondra\\source\\repos\\TimeTrackingC# - kopie\\TimeTrackingC#\\TimeTrackingLABS.csproj",
       "projectName": "TimeTrackingLABS",
-      "projectPath": "C:\\Users\\Ondra\\source\\repos\\TimeTrackingC#\\TimeTrackingC#\\TimeTrackingLABS.csproj",
+      "projectPath": "C:\\Users\\Ondra\\source\\repos\\TimeTrackingC# - kopie\\TimeTrackingC#\\TimeTrackingLABS.csproj",
       "packagesPath": "C:\\Users\\Ondra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ondra\\source\\repos\\TimeTrackingC#\\TimeTrackingC#\\obj\\",
+      "outputPath": "C:\\Users\\Ondra\\source\\repos\\TimeTrackingC# - kopie\\TimeTrackingC#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
